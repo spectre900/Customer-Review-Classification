@@ -1,2 +1,3 @@
-# Customer-Review-Classification Using Long-Short Term Memory
-LSTM model based on pre trained Word Vectors To Classify Customer Reviews
+# Customer-Review-Classification using custom implemented Long-Short Term Memory Cell
+
+Custom LSTM model based on pre trained Word Vectors To Classify Customer Reviews into positive/negative reviews.
